@@ -16,11 +16,6 @@ class ViewController: UIViewController {
     @IBOutlet weak var customTextField: UITextField!
     @IBOutlet weak var customSwitch: UISwitch!
     
-    
-    
-    
-    
-    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
