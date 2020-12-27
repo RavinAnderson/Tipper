@@ -1,17 +1,17 @@
 # Pre-work - *Name of App Here*
 
-**Name of your app** is a tip calculator application for iOS.
+**Tipper** is a tip calculator application for iOS.
 
-Submitted by: **Your Name Here**
+Submitted by: **Ravin Anderson**
 
-Time spent: **X** hours spent in total
+Time spent: **8** hours spent in total
 
 ## User Stories
 
 The following **required** functionality is complete:
 
-* [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
-* [ ] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
+* [X] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [X] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
 
 The following **optional** features are implemented:
 
@@ -22,7 +22,8 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [X] Added an image for asethetic.
+- [X] Included a UISwitch to switch between using percentages from the segemented control or from the custom percentage text field.
 
 ## Video Walkthrough
 
@@ -35,6 +36,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+Figuring out how to create the app from the video and walkthrough was harder than I initally thought. There were some things that didn't line up because of the XCode update, so I kept getting errors. It was beneficial in the end because I had to understand everything that was happening in order to fix them. Uploding to GitHub also threw an error because of some head file, but I found a workaround.
 
 ## License
 
