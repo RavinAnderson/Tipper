@@ -40,7 +40,7 @@ Figuring out how to create the app from the video and walkthrough was harder tha
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2020 Ravin Anderson
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
